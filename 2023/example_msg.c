@@ -36,7 +36,6 @@
 #include <rdma/fi_domain.h>
 #include <rdma/fi_endpoint.h>
 #include <rdma/fi_cm.h>
-#include <shared.h>
 
 //Build with
 //gcc -o example_msg example_msg.c -L<path to libfabric lib> -I<path to libfabric include> -lfabric
